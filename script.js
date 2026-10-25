@@ -108,6 +108,16 @@ const models = [
     shots: ["https://raw.githubusercontent.com/Mininator/Mininator/main/models/Laptop/screen1.png","https://raw.githubusercontent.com/Mininator/Mininator/main/models/Laptop/screen2.png","https://raw.githubusercontent.com/Mininator/Mininator/main/models/Laptop/screen3.png"],
     fname: "https://raw.githubusercontent.com/Mininator/Mininator/main/models/Laptop/Laptop.zip",
   },
+   {
+    n: "Wii (Blanche)",
+
+    d: "Ajouté le 25/10/2026",
+
+    img: "https://raw.githubusercontent.com/Mininator/Mininator-Web/main/models/Wii/icon_wii.png",
+    shots: ["https://raw.githubusercontent.com/Mininator/Mininator/main/models/Wii/screen1.png","https://raw.githubusercontent.com/Mininator/Mininator/main/models/Wii/screen2.png","https://raw.githubusercontent.com/Mininator/Mininator/main/models/Wii/screen3.png"],
+    fname: "https://raw.githubusercontent.com/Mininator/Mininator-Web/main/models/Wii/Wii.zip",
+  },
+  
   
 
   
