@@ -117,6 +117,15 @@ const models = [
     shots: ["https://raw.githubusercontent.com/Mininator/Mininator/main/models/Wii/screen1.png","https://raw.githubusercontent.com/Mininator/Mininator/main/models/Wii/screen2.png","https://raw.githubusercontent.com/Mininator/Mininator/main/models/Wii/screen3.png"],
     fname: "https://raw.githubusercontent.com/Mininator/Mininator-Web/main/models/Wii/Wii.zip",
   },
+   {
+    n: "GameCube Violet",
+
+    d: "Ajouté le 25/10/2026",
+
+    img: "https://raw.githubusercontent.com/Mininator/Mininator-Web/main/models/GameCube/icon.png",
+    shots: ["https://raw.githubusercontent.com/Mininator/Mininator/main/models/GameCube/screen1.png","https://raw.githubusercontent.com/Mininator/Mininator/main/models/GameCube/screen2.png","https://raw.githubusercontent.com/Mininator/Mininator/main/models/GameCube/screen3.png"],
+    fname: "https://raw.githubusercontent.com/Mininator/Mininator-Web/main/models/GameCube/GameCube.zip",
+  },
   
   
 
